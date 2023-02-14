@@ -1,0 +1,5 @@
+﻿  Enum.cpp
+  SevenPointsOne_labe.cpp
+C:\Users\brazk\source\repos\SevenPointsOne_labe\SevenPointsOne_labe\SevenPointsOne_labe.cpp(94,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  SevenPointsOne_labe.vcxproj -> C:\Users\brazk\source\repos\SevenPointsOne_labe\x64\Debug\SevenPointsOne_labe.exe
